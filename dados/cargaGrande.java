@@ -1,5 +1,5 @@
 package dados;
-
+ 
 public class cargaGrande extends Carga{
     public cargaGrande(double peso, double valor) {
         super(peso, valor);

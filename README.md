@@ -1,5 +1,5 @@
 Este trabalho consiste na implementação de uma aplicação em Java que atenda aos seguintes critérios:
-
+ 
 1. A aplicação deverá utilizar Java Swing para sua interface gráfica;
 
 2. Deverá haver pelo menos a janela principal da aplicação;

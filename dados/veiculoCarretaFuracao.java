@@ -1,5 +1,5 @@
 package dados;
-
+ 
 import helpers.retorno;
 
 public class veiculoCarretaFuracao extends Veiculo{

@@ -4,7 +4,7 @@ public class Carga {
     private String idCarga;
     private double peso;
     private double valor;
-
+ 
     public Carga(double peso, double valor) {
         this.idCarga = String.format("%03d", contador++);
         this.valor = valor;

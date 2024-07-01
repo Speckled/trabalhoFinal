@@ -1,5 +1,5 @@
 package dados;
-
+ 
 public class cargaLiquida extends Carga{
     private int volume;
     public cargaLiquida(double peso, double valor, int volume) {

@@ -8,7 +8,7 @@ import dados.Transportadora;
 
 import java.awt.*;
 import java.util.*;
-
+ 
 public class ConsultaEntrega extends JDialog {
     private Transportadora transportadora;
     private JTable entregaTable;
